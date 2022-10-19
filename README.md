@@ -5,7 +5,7 @@
 
 - 🌱 I'm honing in on my full-stack development skills and recently started learning **C# and .NET framework.**
 
-- 💡 Aside from Software Development, I am also skilled in **CRM (Salesforce/ServiceNow) and EHR (Epic) System Administration.**
+- 💡  In addition to Software Development, I am also skilled in **CRM (Salesforce/ServiceNow) and EHR (Epic) System Administration.**
 
 - 📫 Feel free to email me at **shaquasialabree@gmail.com**
 
