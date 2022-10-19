@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaquasia Constantine</h1>
+<h1 align="center">Hi 👋🏾, I'm Shaquasia Constantine</h1>
 <h3 align="center">A passionate Software Developer from New York</h3>
 
 - 👩🏾‍💻 I'm currently working on **an augmentative and assistive communication app.**
