@@ -9,7 +9,7 @@
 
 - 📫 Feel free to email me at **shaquasialabree@gmail.com**
 
-- 🎀 Fun fact **I love to collect perfume and journals.**
+- 🎀 A fun fact about me is **I love to collect perfume and journals.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
